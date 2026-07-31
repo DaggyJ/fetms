@@ -5,5 +5,5 @@ import react from "@vitejs/plugin-react";
 // including GitHub Pages project sites (https://<user>.github.io/<repo>/).
 export default defineConfig({
   plugins: [react()],
-  base: "./",
+  base: "./fetms",
 });
